@@ -7,10 +7,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/EDP3_Homepage_01_D_2160x_18810e00-c0e8-4ae7-8ce5-d21f59b69285.jpg",
-            "heading": "Browse our latest products",
+            "heading": "Découvrez notre nouveau parfum",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Shop all",
+            "button_label": "Découvrir",
             "link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
             "box_align": "middle-left",
