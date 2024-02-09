@@ -70,19 +70,19 @@
         "featured_collection_CqYDCQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "cheveux"
           }
         },
         "featured_collection_LTxatC": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "corps"
           }
         },
         "featured_collection_bhcXep": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "visage"
           }
         }
       },
