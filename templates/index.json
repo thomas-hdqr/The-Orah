@@ -36,48 +36,13 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "rich_text_4Gcyz4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_AFgBAT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Les cosmétiques préférés des hommes",
-            "heading_size": "h1"
-          }
-        },
-        "button_VETwje": {
-          "type": "button",
-          "settings": {
-            "button_label": "Voir tout",
-            "button_link": "shopify:\/\/collections",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_AFgBAT",
-        "button_VETwje"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured-collection-0": {
       "type": "featured-collection",
       "settings": {
         "title": "NOS BEST-SELLERS",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "",
-        "show_description": true,
+        "show_description": false,
         "description_style": "body",
         "collection": "all",
         "products_to_show": 4,
@@ -89,7 +54,7 @@
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -138,55 +103,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_beWzeb": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_rBQEff": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text_WBdrEb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_ByJGyM": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_rBQEff",
-        "text_WBdrEb",
-        "button_ByJGyM"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "slideshow",
-    "rich_text_4Gcyz4",
     "featured-collection-0",
-    "collection_list_VwrRbk",
-    "rich_text_beWzeb"
+    "collection_list_VwrRbk"
   ]
 }

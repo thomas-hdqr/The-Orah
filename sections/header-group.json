@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "📦 Livraison gratuite à partir de 50€",
+            "text": "Welcome to our store",
             "link": ""
           }
         }
@@ -31,7 +31,7 @@
       "settings": {
         "logo_position": "top-center",
         "menu": "main-menu",
-        "menu_type_desktop": "mega",
+        "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
         "color_scheme": "scheme-3",

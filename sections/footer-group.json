@@ -8,14 +8,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "-10% en s'abonnant à la newsletter",
+            "heading": "Subscribe to our emails",
             "heading_size": "h1"
           }
         },
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Des exclusivités, des promos et beaucoup d'❤️<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
           }
         },
         "email-form": {
@@ -39,24 +39,15 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "image_K3hDFM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo.png",
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
         "link_list_weHkPJ": {
           "type": "link_list",
           "settings": {
-            "heading": "",
-            "menu": "main-menu"
+            "heading": "Liens rapide",
+            "menu": "footer"
           }
         }
       },
       "block_order": [
-        "image_K3hDFM",
         "link_list_weHkPJ"
       ],
       "settings": {
