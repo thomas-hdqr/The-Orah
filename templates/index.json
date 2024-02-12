@@ -49,7 +49,7 @@
         "button_VETwje": {
           "type": "button",
           "settings": {
-            "button_label": "En savoir plus",
+            "button_label": "Voir tout",
             "button_link": "shopify:\/\/collections",
             "button_style_secondary": false,
             "button_label_2": "",
