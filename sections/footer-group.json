@@ -50,8 +50,8 @@
         "link_list_weHkPJ": {
           "type": "link_list",
           "settings": {
-            "heading": "Liens rapide",
-            "menu": "footer"
+            "heading": "",
+            "menu": "main-menu"
           }
         }
       },
