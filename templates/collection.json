@@ -1,5 +1,28 @@
 {
   "sections": {
+    "rich_text_WajFGG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_htRaPR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Découvrez notre collection",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_htRaPR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -30,6 +53,7 @@
     }
   },
   "order": [
+    "rich_text_WajFGG",
     "banner",
     "product-grid"
   ]
