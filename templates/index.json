@@ -36,11 +36,46 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_ewcabf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_j8CR4X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Le meilleur du cosmétique pour homme",
+            "heading_size": "h1"
+          }
+        },
+        "button_4EB8bD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_j8CR4X",
+        "button_4EB8bD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured-collection-0": {
       "type": "featured-collection",
       "settings": {
         "title": "NOS BEST-SELLERS",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -54,7 +89,7 @@
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
@@ -107,11 +142,8 @@
   },
   "order": [
     "slideshow",
+    "rich_text_ewcabf",
     "featured-collection-0",
     "collection_list_VwrRbk"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1d57124 (Refactored footer and product templates)

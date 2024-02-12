@@ -8,14 +8,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "-10% sur votre 1ère commande",
             "heading_size": "h1"
           }
         },
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Inscrivez vous à la newsletter et profitez des promos, exclusivités etc<\/p>"
           }
         },
         "email-form": {
@@ -70,8 +70,4 @@
     "newsletter",
     "footer"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1d57124 (Refactored footer and product templates)
