@@ -36,6 +36,41 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_4Gcyz4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AFgBAT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les cosmétiques préférés des hommes",
+            "heading_size": "h1"
+          }
+        },
+        "button_VETwje": {
+          "type": "button",
+          "settings": {
+            "button_label": "En savoir plus",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AFgBAT",
+        "button_VETwje"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured-collection-0": {
       "type": "featured-collection",
       "settings": {
@@ -107,6 +142,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_4Gcyz4",
     "featured-collection-0",
     "collection_list_VwrRbk"
   ]
