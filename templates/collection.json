@@ -50,11 +50,52 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
+    },
+    "collection_list_ddeML3": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_VeLmm8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cheveux"
+          }
+        },
+        "featured_collection_zDUrRX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "corps"
+          }
+        },
+        "featured_collection_MCRDWd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "visage"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_VeLmm8",
+        "featured_collection_zDUrRX",
+        "featured_collection_MCRDWd"
+      ],
+      "settings": {
+        "title": "Nos autres gammes",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "rich_text_WajFGG",
     "banner",
-    "product-grid"
+    "product-grid",
+    "collection_list_ddeML3"
   ]
 }
