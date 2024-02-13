@@ -45,18 +45,18 @@
         "collapsible_tab_6YVQwY": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
+            "heading": "Que fait-il",
             "icon": "none",
-            "content": "<p>Test<\/p>",
+            "content": "<ul><li>La mousse crémeuse élimine la saleté, l'huile et les impuretés quotidiennes.<\/li><li>La poudre de bambou douce aide à désobstruer les pores et lisse la peau.<\/li><li>Les ingrédients à base de plantes hydratent, calment et revitalisent.<\/li><li>Sans parabènes, sulfates, phtalates, silicones ou aluminium. <\/li><li>Végétalien, sans cruauté. <\/li><li>Fabriqué en France. Emballage 100% recyclable.<\/li><\/ul>",
             "page": ""
           }
         },
-        "collapsible_tab_BgwqGn": {
+        "collapsible_tab_tD8GMF": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Odeur",
+            "icon": "none",
+            "content": "<p>Une touche nette et subtile de menthe poivrée rafraîchissante, d'agrumes énergisants et de genévrier revigorant.<\/p>",
             "page": ""
           }
         }
@@ -70,7 +70,7 @@
         "buy_buttons",
         "description",
         "collapsible_tab_6YVQwY",
-        "collapsible_tab_BgwqGn"
+        "collapsible_tab_tD8GMF"
       ],
       "settings": {
         "enable_sticky_info": true,
