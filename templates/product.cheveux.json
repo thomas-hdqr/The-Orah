@@ -59,6 +59,15 @@
             "content": "<p>Un parfum frais, propre et revigorant avec du menthol rafraîchissant, des agrumes énergiques, du genièvre frais et des légumes verts aromatiques.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_VRQXyq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>Notre shampooing est fabriqué avec une mousse riche et crémeuse pour rafraîchir tout en éliminant l'huile, la sueur et les pellicules quotidiennes. Il contient de l'huile d'argan nourrissante, de la vitamine E et B5 pour hydrater, lisser et hydrater les cheveux et le cuir chevelu. Et comme toujours : sans parabènes, sulfates, phtalates, silicones ou aluminium. Tous nos produits sont 100 % végétaliens et certifiés Leaping-Bunny sans cruauté envers les animaux. Nos produits sont fabriqués en France avec des ingrédients d'origine mondiale. Emballage 100% recyclable.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -70,7 +79,8 @@
         "buy_buttons",
         "description",
         "collapsible_tab_6YVQwY",
-        "collapsible_tab_zaB7qY"
+        "collapsible_tab_zaB7qY",
+        "collapsible_tab_VRQXyq"
       ],
       "settings": {
         "enable_sticky_info": true,
