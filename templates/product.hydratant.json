@@ -45,18 +45,9 @@
         "collapsible_tab_6YVQwY": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
+            "heading": "Que fait-il ?",
             "icon": "none",
-            "content": "<p>Test<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_BgwqGn": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "content": "<ul><li>La texture gel-crème est fraîche et fraîche car elle apaise et hydrate instantanément.<\/li><li>Les super hydratants lissent les ridules et maintiennent la peau douce.<\/li><li>Protège contre la pollution environnementale en laissant la peau sans brillance.<\/li><li>Sans parabènes, sulfates, phtalates, silicones ou aluminium. <\/li><li>Végétalien, sans cruauté. <\/li><li>Fabriqué France. Emballage 100% recyclable.<\/li><\/ul>",
             "page": ""
           }
         }
@@ -69,8 +60,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY",
-        "collapsible_tab_BgwqGn"
+        "collapsible_tab_6YVQwY"
       ],
       "settings": {
         "enable_sticky_info": true,
