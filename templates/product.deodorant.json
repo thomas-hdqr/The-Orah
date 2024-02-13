@@ -50,6 +50,33 @@
             "content": "<ul><li>Le déodorant basé sur la performance neutralise les odeurs à la source pour une protection toute la journée.<\/li><li>Absorbe l'humidité pour aider à rester au sec et à l'aise.<\/li><li>Sans aluminium, testé cliniquement, testé contre les allergies et non irritant.<\/li><li>Sans parabènes, sulfates, phtalates ou silicones. <\/li><li>Végétalien, certifié sans cruauté. Fabriqué en France avec des ingrédients d'origine mondiale. <\/li><li>Emballage 100% recyclable.<\/li><\/ul>",
             "page": ""
           }
+        },
+        "collapsible_tab_ePJWHU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Odeur",
+            "icon": "none",
+            "content": "<p>Original Agrumes + Eucalyptus : Un parfum vif et revigorant d'agrumes, de genévrier, d'eucalyptus, de menthe et de légumes verts aromatiques.<br\/><br\/>Bois de santal + poivre noir : Un parfum propre et boisé de bois de santal, de poivre noir énergique, de bois de cèdre et d'ambre crémeux.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_Xe8c3N": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>La technologie désodorisante avancée élimine les bactéries, ciblant les odeurs à leur source. <\/p><p>La poudre d'arrow-root brésilienne absorbe l'humidité, vous gardant au frais, au sec et à l'aise. <\/p><p>Le beurre de karité, le jojoba, l'huile de tournesol et l'huile de noix de coco laissent les aisselles lisses et sans irritation. <\/p><p>Sans parabènes, sulfates, phtalates, silicones ou aluminium. <\/p><p>Tous nos produits sont 100% végétaliens et certifiés cruelty-free. Fabriqué en France avec des ingrédients d'origine mondiale.<\/p><p> Emballage 100% recyclable. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_rDBb3D": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients",
+            "icon": "none",
+            "content": "<p>Triglycéride caprylique\/caprique, amidon de tapioca, huile de cocos nucifera (noix de coco), huile de graines d'Helianthus Annuus (tournesol), bicarbonate de sodium, cire de graines d'Helianthus Annuus (tournesol), beurre de Butyrospermum Parkii (karité), esters de jojoba, parfum, Simmondsia Chinensis (jojoba). ) Huile de graines, citrate de triéthyle, 2-méthyl 5-cyclohexylpentanol, tocophérol<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -60,7 +87,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY"
+        "collapsible_tab_6YVQwY",
+        "collapsible_tab_ePJWHU",
+        "collapsible_tab_Xe8c3N",
+        "collapsible_tab_rDBb3D"
       ],
       "settings": {
         "enable_sticky_info": true,
