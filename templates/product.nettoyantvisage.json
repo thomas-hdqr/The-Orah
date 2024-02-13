@@ -59,6 +59,24 @@
             "content": "<p>Une touche nette et subtile de menthe poivrée rafraîchissante, d'agrumes énergisants et de genévrier revigorant.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_Czh4Jx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>Suffisamment doux pour être utilisé deux fois par jour, notre nettoyant pour le visage crémeux élimine la saleté, l'huile, la sueur et les impuretés quotidiennes. <\/p><p>Utilisée comme exfoliant doux, la poudre de bambou aide à désobstruer les pores et lisse la peau tandis que l'aloe vera et l'acqua-cacteen hydratent, calment et revitalisent la peau. <\/p><p>Et comme toujours : sans parabènes, sulfates, phtalates, silicones ou aluminium. Tous nos produits sont 100 % végétaliens et certifiés Leaping-Bunny sans cruauté envers les animaux. <\/p><p>Nos produits sont fabriqués en France avec des ingrédients d'origine mondiale. Emballage 100% recyclable.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_pddjxc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients",
+            "icon": "none",
+            "content": "<p>Eau (Aqua), iséthionate de cocoyl de sodium, alcool cétéarylique, acide stéarique, distéarate de glycol, poudre de tige de Bambusa Arundinacea, acide citrique, extrait de fruit d'Actinidia Chinensis (Kiwi), jus de feuille d'Aloe Barbadensis, extrait de racine d'Althaea Officinalis, fruit d'Ananas Sativus (ananas) Extrait, extrait de fruit d'Averrrhoa Carambola, triglycéride caprylique\/caprique, huile de Citrus Aurantium Dulcis (orange), EDTA disodique, éthylhexylglycérine, extrait de fruit de Garcinia Mangostana, glycérine, chlorure d'hydroxypropyltrimonium de guar, acétate d'hexanoyl dipeptide-3 norleucine, hydroxyacétophénone, lécithine, fruit de Litchi Chinensis Extrait, menthoxypropanediol, huile de Mentha Piperita (menthe poivrée), extrait de tige d'Opuntia Ficus-Indica, extrait de fruit de Passiflora Incarnata, phénoxyéthanol, extrait de fruit de Pleiogynium Timoriense, extrait de fruit de Podocarpus Elatus, polyéther-1, hydroxyde de potassium, extrait de fruit de Psidium Guajava, extrait de Punica Granatum , Extrait de fruit de Terminalia Ferdinandiana, Extrait de fruit de Zizyphus Jujuba, Parfum (Parfum)<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -70,7 +88,9 @@
         "buy_buttons",
         "description",
         "collapsible_tab_6YVQwY",
-        "collapsible_tab_tD8GMF"
+        "collapsible_tab_tD8GMF",
+        "collapsible_tab_Czh4Jx",
+        "collapsible_tab_pddjxc"
       ],
       "settings": {
         "enable_sticky_info": true,
