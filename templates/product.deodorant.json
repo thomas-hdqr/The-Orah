@@ -165,6 +165,53 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_kFAkqe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KA8CWT": {
+          "type": "heading",
+          "settings": {
+            "heading": "On vous aide",
+            "heading_size": "h1"
+          }
+        },
+        "text_djn7j9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Littéralement. Notre déodorant utilise une technologie déodorante avancée pour éliminer les bactéries responsables des odeurs tout en absorbant l'humidité, vous gardant au frais, au sec et à l'aise. Non irritant. Testé cliniquement et testé contre les allergies.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_WDhB7L": {
+          "type": "button",
+          "settings": {
+            "button_label": "Acheter",
+            "button_link": "shopify:\/\/products\/deodorant",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KA8CWT",
+        "text_djn7j9",
+        "button_WDhB7L"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HURON-TEAM-PRODUCT-12-07-2021_00015_600x_66bd9ba9-0868-43cf-a544-aadbc48ada83.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -188,6 +235,7 @@
     "main",
     "image_with_text_qGFFL4",
     "rich_text_xkJikH",
+    "image_with_text_kFAkqe",
     "related-products"
   ]
 }
