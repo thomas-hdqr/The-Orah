@@ -45,18 +45,9 @@
         "collapsible_tab_6YVQwY": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
+            "heading": "Que fait-il ?",
             "icon": "none",
-            "content": "<p>Test<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_BgwqGn": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "content": "<ul><li>Le déodorant basé sur la performance neutralise les odeurs à la source pour une protection toute la journée.<\/li><li>Absorbe l'humidité pour aider à rester au sec et à l'aise.<\/li><li>Sans aluminium, testé cliniquement, testé contre les allergies et non irritant.<\/li><li>Sans parabènes, sulfates, phtalates ou silicones. <\/li><li>Végétalien, certifié sans cruauté. Fabriqué en France avec des ingrédients d'origine mondiale. <\/li><li>Emballage 100% recyclable.<\/li><\/ul>",
             "page": ""
           }
         }
@@ -69,8 +60,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY",
-        "collapsible_tab_BgwqGn"
+        "collapsible_tab_6YVQwY"
       ],
       "settings": {
         "enable_sticky_info": true,
