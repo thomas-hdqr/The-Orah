@@ -177,6 +177,57 @@
         "padding_bottom": 36
       }
     },
+    "collapsible_content_M8GPCT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_exHqcj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Combien de temps dure un flacon ?",
+            "icon": "check_mark",
+            "row_content": "<p>Cela dépendra de vos goûts personnels et de la fréquence des pulvérisations – nous recommandons 2 à 3 pulvérisations par utilisation. Pulvérisé directement sur la peau une fois par jour à cette fréquence, le flacon peut durer jusqu'à un an !<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9bMhe6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les parfums sont-ils sans allergènes ?",
+            "icon": "check_mark",
+            "row_content": "<p>Nos compositions parfumées contiennent des allergènes courants. Vous trouverez ci-dessous une liste des allergènes et des composés parfumés potentiellement sensibles présents dans le parfum. Si vous avez une question sur un allergène ou un ingrédient spécifique, veuillez nous envoyer un e-mail et nous vous répondrons immédiatement. AllergènesOriginal Agrumes + Eucalyptus : - Salicylate de benzyle : un produit biologique synthétique et d'origine naturelle composé avec un doux parfum balsamique et doucement floral.- Citral : Un ingrédient parfumé naturel présent dans les huiles de divers écorces d'agrumes.- Citronellol : un ingrédient naturel dérivé de plantes telles que la rose, le géranium et la citronnelle avec un parfum herbacé et citronné- comme le parfum.- Géraniol : un ingrédient parfumé naturel avec un parfum de rose distinct que l'on retrouve dans diverses huiles essentielles telles que l'huile de rose et l'huile de citronnelle. - Limonène : un composé parfumé présent dans l'écorce des agrumes, comme les citrons, les limes et les oranges. - Linalol : une huile essentielle naturelle présente dans de nombreuses fleurs et épices pour fournir une odeur florale légère, fraîche et propre. Bois de santal + Poivre noir : - Alpha-isométhyl ionone : un composé organique synthétique et d'origine naturelle qui reproduit l'odeur de violette, avec une touche sucrée et poudrée. - Coumarine : un composé naturel à l'odeur sucrée présent dans de nombreuses plantes, dont la cannelle, la fève tonka. et mélilot - Limonène : un composé parfumé présent dans l'écorce des agrumes, comme les citrons, les limes et les oranges - Linalol : une huile essentielle naturelle présente dans de nombreuses fleurs et épices pour fournir un parfum floral léger, frais et propre. odeur.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Jq8Lxd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Je veux essayer le nouveau parfum, mais j'ai peur d'être déçu. Quelle est la politique de retour ?",
+            "icon": "check_mark",
+            "row_content": "<p>Chacun de nos parfum est livré avec un flacon « essayez-le » destiné à tester le parfum sans ouvrir la bouteille. Assurez-vous de tester le parfum avec le flacon avant d'ouvrir le carton. Toutes les bouteilles non ouvertes et scellées peuvent être retournées dans les 30 jours suivant l'achat dans le cadre de notre garantie de 30 jours. Les bouteilles ouvertes, non emballées ou utilisées ne pourront pas être retournées. Plus de questions? Contactez-nous et nous pourrons vous aider.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_exHqcj",
+        "collapsible_row_9bMhe6",
+        "collapsible_row_Jq8Lxd"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-3",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_qGFFL4": {
       "type": "image-with-text",
       "blocks": {
@@ -318,77 +369,16 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
-    },
-    "collapsible_content_M8GPCT": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_exHqcj": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Combien de temps dure un flacon ?",
-            "icon": "check_mark",
-            "row_content": "<p>Cela dépendra de vos goûts personnels et de la fréquence des pulvérisations – nous recommandons 2 à 3 pulvérisations par utilisation. Pulvérisé directement sur la peau une fois par jour à cette fréquence, le flacon peut durer jusqu'à un an !<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_9bMhe6": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Les parfums sont-ils sans allergènes ?",
-            "icon": "check_mark",
-            "row_content": "<p>Nos compositions parfumées contiennent des allergènes courants. Vous trouverez ci-dessous une liste des allergènes et des composés parfumés potentiellement sensibles présents dans le parfum. Si vous avez une question sur un allergène ou un ingrédient spécifique, veuillez nous envoyer un e-mail et nous vous répondrons immédiatement. AllergènesOriginal Agrumes + Eucalyptus : - Salicylate de benzyle : un produit biologique synthétique et d'origine naturelle composé avec un doux parfum balsamique et doucement floral.- Citral : Un ingrédient parfumé naturel présent dans les huiles de divers écorces d'agrumes.- Citronellol : un ingrédient naturel dérivé de plantes telles que la rose, le géranium et la citronnelle avec un parfum herbacé et citronné- comme le parfum.- Géraniol : un ingrédient parfumé naturel avec un parfum de rose distinct que l'on retrouve dans diverses huiles essentielles telles que l'huile de rose et l'huile de citronnelle. - Limonène : un composé parfumé présent dans l'écorce des agrumes, comme les citrons, les limes et les oranges. - Linalol : une huile essentielle naturelle présente dans de nombreuses fleurs et épices pour fournir une odeur florale légère, fraîche et propre. Bois de santal + Poivre noir : - Alpha-isométhyl ionone : un composé organique synthétique et d'origine naturelle qui reproduit l'odeur de violette, avec une touche sucrée et poudrée. - Coumarine : un composé naturel à l'odeur sucrée présent dans de nombreuses plantes, dont la cannelle, la fève tonka. et mélilot - Limonène : un composé parfumé présent dans l'écorce des agrumes, comme les citrons, les limes et les oranges - Linalol : une huile essentielle naturelle présente dans de nombreuses fleurs et épices pour fournir un parfum floral léger, frais et propre. odeur.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Jq8Lxd": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Je veux essayer le nouveau parfum, mais j'ai peur d'être déçu. Quelle est la politique de retour ?",
-            "icon": "check_mark",
-            "row_content": "<p>Chacun de nos parfum est livré avec un flacon « essayez-le » destiné à tester le parfum sans ouvrir la bouteille. Assurez-vous de tester le parfum avec le flacon avant d'ouvrir le carton. Toutes les bouteilles non ouvertes et scellées peuvent être retournées dans les 30 jours suivant l'achat dans le cadre de notre garantie de 30 jours. Les bouteilles ouvertes, non emballées ou utilisées ne pourront pas être retournées. Plus de questions? Contactez-nous et nous pourrons vous aider.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_TajLDe": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_exHqcj",
-        "collapsible_row_9bMhe6",
-        "collapsible_row_Jq8Lxd",
-        "collapsible_row_TajLDe"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "FAQ",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "scheme-3",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "image_banner_9KHLiR",
     "multicolumn_MNrPYE",
+    "collapsible_content_M8GPCT",
     "image_with_text_qGFFL4",
     "rich_text_xkJikH",
     "image_with_text_kFAkqe",
-    "related-products",
-    "collapsible_content_M8GPCT"
+    "related-products"
   ]
 }
