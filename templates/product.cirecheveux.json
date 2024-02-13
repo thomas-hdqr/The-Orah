@@ -94,14 +94,14 @@
         "heading_37DttE": {
           "type": "heading",
           "settings": {
-            "heading": "Nettoyez vos pores",
+            "heading": "Votre nouvelle cire préférée",
             "heading_size": "h1"
           }
         },
         "text_QAiQJB": {
           "type": "text",
           "settings": {
-            "text": "<p>La peau de votre visage est différente de celle de votre corps. Notre formule multi-actions est conçue pour nettoyer et éliminer la saleté, la sueur et l'huile qui s'accumulent sur votre visage sans le dessécher.<\/p>",
+            "text": "<p>Cette cire polyvalente ajoute de la texture et une tenue légère et flexible. Aide à restaurer l’hydratation, la force et l’élasticité des cheveux, tout en lissant les frisottis et la sécheresse. <\/p>",
             "text_style": "body"
           }
         },
@@ -109,7 +109,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/nettoyant-visage",
+            "button_link": "shopify:\/\/products\/cire-cheveux",
             "button_style_secondary": false
           }
         }
@@ -120,7 +120,7 @@
         "button_8VGwnM"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/facewash_02_600x_8e55a807-0fd2-4136-93b2-4047091df0fa.jpg",
+        "image": "shopify:\/\/shop_images\/huron_pdp_hair-styler_2_600x_73432491-2d9f-4471-b7f9-1cbad87bb01e.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -147,7 +147,7 @@
         "heading_iYbbWH": {
           "type": "heading",
           "settings": {
-            "heading": "La plupart des exfoliants ont une mauvaise réputation car ils ressemblent à du papier de verre. Le nôtre est suffisamment doux pour être utilisé (deux fois) par jour tout en offrant des bienfaits nettoyants en profondeur.",
+            "heading": "Les cires classiques peuvent abîmer le cuir chevelu. Notre cire est légère, tout en gardant les frisottis sous contrôle pour un style léger mais qui dure toute la journée.",
             "heading_size": "h1"
           }
         }
@@ -171,14 +171,14 @@
         "heading_KA8CWT": {
           "type": "heading",
           "settings": {
-            "heading": "Nettoyage en profondeur + finition douce = combo gagnant",
+            "heading": "<strong>Une noisette fera l'affaire<\/strong>",
             "heading_size": "h1"
           }
         },
         "text_djn7j9": {
           "type": "text",
           "settings": {
-            "text": "<p>La formule crémeuse mousse pour donner un nettoyage rafraîchissant tandis que la poudre de bambou et les enzymes de fruits éliminent les impuretés et les débris. L'aloès et la glycérine apaisent, calment et hydratent pour une peau plus fraîche, plus lisse et plus douce.<\/p>",
+            "text": "<p>Une cire douce et légère au beurre de karité riche en vitamines, à l'huile de noix de coco et à la glycérine qui aide à nourrir, lisser et restaurer les cheveux ternes et ternes. Le mélange d'acides aminés renforçant les cheveux ajoute de la plénitude et de la force tout en protégeant contre les frisottis et l'humidité. La cire de carnauba apporte de la texture et donne aux cheveux un contrôle flexible avec une brillance discrète.<\/p>",
             "text_style": "body"
           }
         },
@@ -186,7 +186,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/nettoyant-visage",
+            "button_link": "shopify:\/\/products\/cire-cheveux",
             "button_style_secondary": false
           }
         }
@@ -197,7 +197,7 @@
         "button_WDhB7L"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/facewash_03_600x_647f08d7-ee87-4d12-8f67-84636697cb30.jpg",
+        "image": "shopify:\/\/shop_images\/5-6_600x_414d7653-26ef-4980-86e4-240aa55f99f5.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
