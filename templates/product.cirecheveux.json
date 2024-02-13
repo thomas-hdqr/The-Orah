@@ -45,18 +45,9 @@
         "collapsible_tab_6YVQwY": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
+            "heading": "Que fait-il ?",
             "icon": "none",
-            "content": "<p>Test<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_BgwqGn": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "content": "<ul><li>S'applique en douceur tout en améliorant la texture des cheveux.<\/li><li>Ajoute du volume<\/li><li>Finition mate naturelle avec contrôle longue durée.<\/li><li>Finition mate naturelle avec contrôle longue durée.<\/li><\/ul>",
             "page": ""
           }
         }
@@ -69,8 +60,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY",
-        "collapsible_tab_BgwqGn"
+        "collapsible_tab_6YVQwY"
       ],
       "settings": {
         "enable_sticky_info": true,
