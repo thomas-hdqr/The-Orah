@@ -50,6 +50,15 @@
             "content": "<ul><li>Une mousse riche et crémeuse rafraîchit en éliminant l'huile, la sueur <\/li><li>Les huiles nourrissantes et les vitamines lissent et hydratent les cheveux et le cuir chevelu<\/li><li>Renforce les cheveux, augmente la plénitude et redonne de la brillance<\/li><li>Sans parabènes, sulfates, phtalates, silicones ou aluminium. <\/li><\/ul>",
             "page": ""
           }
+        },
+        "collapsible_tab_zaB7qY": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Odeur",
+            "icon": "none",
+            "content": "<p>Un parfum frais, propre et revigorant avec du menthol rafraîchissant, des agrumes énergiques, du genièvre frais et des légumes verts aromatiques.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -60,7 +69,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY"
+        "collapsible_tab_6YVQwY",
+        "collapsible_tab_zaB7qY"
       ],
       "settings": {
         "enable_sticky_info": true,
