@@ -171,14 +171,14 @@
         "heading_KA8CWT": {
           "type": "heading",
           "settings": {
-            "heading": "Plus de 24 heures d'hydratation en 24 secondes",
+            "heading": "Faites mousser comme un adulte",
             "heading_size": "h1"
           }
         },
         "text_djn7j9": {
           "type": "text",
           "settings": {
-            "text": "<p>Le gel-lotion frais apaise instantanément tandis que les super-hydratants tels que l'hyaluronate de sodium et la pentavitine soulagent la sécheresse jusqu'à 72 heures. La formule lisse l'apparence des ridules tout en protégeant des polluants environnementaux. La peau est saine et sans brillance.<\/p>",
+            "text": "<p>Le nettoyant corporel nourrissant fournit une mousse revitalisante qui élimine la saleté, l'huile et la sueur. Le menthol et l'eucalyptus revigorants, le ginseng énergisant et l'hamamélis désodorisant aident à apporter la propreté partout où vous allez. L'huile de coco, la vitamine E et la vitamine B5 hydratent, apaisent et hydratent.<\/p>",
             "text_style": "body"
           }
         },
@@ -186,7 +186,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/hydratant-visage",
+            "button_link": "shopify:\/\/products\/nettoyant-corps",
             "button_style_secondary": false
           }
         }
@@ -197,7 +197,7 @@
         "button_WDhB7L"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/huron-d-pdp-face-lotion-02_600x_59e68d53-b92b-4d35-b397-2edb77f7884f.webp",
+        "image": "shopify:\/\/shop_images\/body-wash-4_600x_e78a180f-a0e3-4a42-ad7c-eb0f757f2b33.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
