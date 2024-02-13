@@ -68,6 +68,15 @@
             "content": "<p>Le gel-lotion frais apaise instantanément tandis que les super-hydratants tels que l'hyaluronate de sodium et la pentavitine procurent un soulagement à long terme de la sécheresse. <\/p><p>La formule lisse l'apparence des ridules tout en protégeant des polluants environnementaux. La peau est saine et sans brillance. Et comme toujours : sans parabènes, sulfates, phtalates, silicones ou aluminium. Tous nos produits sont 100 % végétaliens et certifiés Leaping-Bunny sans cruauté envers les animaux. <\/p><p>Nos produits sont fabriqués en France avec des ingrédients d'origine mondiale. Emballage 100% recyclable.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_CajXqt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients",
+            "icon": "none",
+            "content": "<p>Eau (Aqua), glycérine, myristate de myristyle, isododécane, copolymère d'acrylate d'hydroxyéthyle\/acryloyldiméthyltaurate de sodium, butylène glycol, triglycéride caprylique\/caprique, EDTA disodique, palmitate d'éthylhexyle, huile de feuille d'eucalyptus globulus, gluconolactone, hydroxyacétophénone, extrait de rhodophycée hydrolysé, isohexadécane, menthoxypropanediol. , Polysorbate 60, isomérate de saccharide, silice, hyaluronate de sodium, phénoxyéthanol, parfum (Parfum)<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -80,7 +89,8 @@
         "description",
         "collapsible_tab_6YVQwY",
         "collapsible_tab_C4tQRW",
-        "collapsible_tab_ceNYPK"
+        "collapsible_tab_ceNYPK",
+        "collapsible_tab_CajXqt"
       ],
       "settings": {
         "enable_sticky_info": true,
