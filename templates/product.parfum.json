@@ -47,16 +47,25 @@
           "settings": {
             "heading": "Détails",
             "icon": "none",
-            "content": "<p>Test<\/p>",
+            "content": "<ul><li>Nous avons créé ce parfum avec les meilleures huiles parfumées, lui permettant de rester sur votre peau jusqu'à 8 heures, ce qui le rend adapté à un usage quotidien. <\/li><li>Jamais trop, mais juste ce qu'il faut de fraîcheur. Vous aurez envie de vous sentir toute la journée.<\/li><li>Pour tout achat de parfum en grand format, vous recevrez un essai en flacon pour tester si vous êtes satisfait.<\/li><\/ul>",
             "page": ""
           }
         },
-        "collapsible_tab_BgwqGn": {
+        "collapsible_tab_CdBiNQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Odeurs",
+            "icon": "none",
+            "content": "<p>Sel marin + bois flotté : S'ouvre sur des notes propres et aromatiques de mandarine, de cardamome, de sauge bleue et de lavande entourées par la fraîcheur de l'air marin salé. Les verts côtiers se combinent avec le sel marin, le bois flotté et le cèdre blanchi au soleil pour un parfum dynamique, frais et décontracté.<br\/><br\/>Original Agrumes + Eucalyptus : Un parfum propre et revigorant d'agrumes rafraîchissants, de genévrier aromatique et de menthe poivrée se mélange aux légumes verts des montagnes et à un accord de brise marine vive. Les notes de bois flotté et de musc créent une qualité boisée fraîche qui est globalement énergisante, vive et nette.<br\/><br\/>Bois de santal + Poivre noir : Un parfum propre, chaud et boisé de poivre noir énergique, de genièvre aromatique, de cardamome épicée et de violette aérienne. Le parfum se développe avec de riches notes de bois de cèdre, de bois de santal crémeux, d'ambre et de patchouli pour un parfum frais, doux et réconfortant.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_An3xpV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients",
+            "icon": "none",
+            "content": "<p>Sel marin + bois flotté : alcool dénaturé, sel marin + parfum bois flotté (Parfum), eau (Aqua)<br\/><br\/>Original Agrumes + Eucalyptus : Alcool dénaturé, Parfum original Agrumes + Eucalyptus (Parfum), Eau (Aqua)<br\/><br\/>Bois de santal + poivre noir : alcool dénaturé, parfum bois de santal + poivre noir (Parfum), eau (Aqua)<\/p>",
             "page": ""
           }
         }
@@ -70,7 +79,8 @@
         "buy_buttons",
         "description",
         "collapsible_tab_6YVQwY",
-        "collapsible_tab_BgwqGn"
+        "collapsible_tab_CdBiNQ",
+        "collapsible_tab_An3xpV"
       ],
       "settings": {
         "enable_sticky_info": true,
