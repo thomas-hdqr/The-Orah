@@ -265,6 +265,59 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
+    },
+    "multicolumn_MNrPYE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FbtiqD": {
+          "type": "column",
+          "settings": {
+            "title": "Fréderic ⭐️⭐️⭐️⭐️⭐️",
+            "text": "<p>J'adore le parfum et les gens autour de moi l'apprécient agréablement. ET étonnamment, il persiste plusieurs jours après son application. Je recommande !!!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TXTrq9": {
+          "type": "column",
+          "settings": {
+            "title": "Tom ⭐️⭐️⭐️⭐️⭐️",
+            "text": "<p>C’est mon parfum préféré pour le travail et les loisirs. Je le porte tous les jours. C'est frais et propre.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HPpyQQ": {
+          "type": "column",
+          "settings": {
+            "title": "Mathieu ⭐️⭐️⭐️⭐️⭐️",
+            "text": "<p>J'aime l'odeur fraîche et propre des agrumes originaux sans être trop florale. Dure des heures mais n'arrive pas dans une pièce avant vous.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FbtiqD",
+        "column_TXTrq9",
+        "column_HPpyQQ"
+      ],
+      "settings": {
+        "title": "Avis 5\/5",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -273,6 +326,7 @@
     "image_with_text_qGFFL4",
     "rich_text_xkJikH",
     "image_with_text_kFAkqe",
-    "related-products"
+    "related-products",
+    "multicolumn_MNrPYE"
   ]
 }
