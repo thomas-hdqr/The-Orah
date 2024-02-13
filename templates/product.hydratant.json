@@ -94,14 +94,14 @@
         "heading_37DttE": {
           "type": "heading",
           "settings": {
-            "heading": "Adieu les mauvaises odeurs",
+            "heading": "Une hydratation sans brillance qui dure(et dure)",
             "heading_size": "h1"
           }
         },
         "text_QAiQJB": {
           "type": "text",
           "settings": {
-            "text": "<p>Littéralement. Notre déodorant utilise une technologie déodorante avancée pour éliminer les bactéries responsables des odeurs tout en absorbant l'humidité, vous gardant au frais, au sec et à l'aise. Non irritant. Testé cliniquement et testé contre les allergies.<\/p>",
+            "text": "<p>Donnez à votre peau une pause avec cet hydratant quotidien léger et rafraîchissant qui soulage la sécheresse, lisse, protège et ravive votre apparence.<\/p>",
             "text_style": "body"
           }
         },
@@ -109,7 +109,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/deodorant",
+            "button_link": "shopify:\/\/products\/hydratant-visage",
             "button_style_secondary": false
           }
         }
@@ -120,7 +120,7 @@
         "button_8VGwnM"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HURON-DEO-APPLY-FULL-BODY-WHITE-WALL-2-V1-16x9.00_00_05_12.Still001_600x_cdfe2de3-c7c4-4cdf-b31d-fa06448a13e6.webp",
+        "image": "shopify:\/\/shop_images\/huron-pdp-face-lotion-3.4_value_prop_600x_dbe35f37-076c-4dc5-98e1-1d4de0c22fb1.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
