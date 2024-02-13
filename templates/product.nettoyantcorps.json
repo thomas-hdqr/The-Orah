@@ -45,18 +45,27 @@
         "collapsible_tab_6YVQwY": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
+            "heading": "Que fait-il ?",
             "icon": "none",
-            "content": "<p>Test<\/p>",
+            "content": "<ul><li>La mousse revitalisante élimine la saleté, l'huile, la sueur et les odeurs.<\/li><li>Le menthol énergisant et l'eucalyptus rechargent et stimulent.<\/li><li>Les huiles nourrissantes et les vitamines hydratent, apaisent et hydratent.<\/li><li>Sans parabènes, sulfates, phtalates, silicones ou aluminium. Végétalien, sans cruauté. <\/li><li>Fabriqué en France. Emballage 100% recyclable.<\/li><\/ul>",
             "page": ""
           }
         },
-        "collapsible_tab_BgwqGn": {
+        "collapsible_tab_bHQMm4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Odeur",
+            "icon": "none",
+            "content": "<p>Original Agrumes + Eucalyptus : Un parfum vif et revigorant d'agrumes, de genévrier, d'eucalyptus, de menthe et de légumes verts aromatiques.<br\/><br\/>Bois de santal + poivre noir : Un parfum propre et boisé de bois de santal, de poivre noir énergique, de bois de cèdre et d'ambre crémeux.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_jWwga9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>Jusqu'à 20 % plus concentré que les alternatives en pharmacie, notre nettoyant pour le corps énergisant est construit avec une mousse riche et revitalisante pour éliminer la saleté, l'huile, la sueur et les odeurs. <\/p><p>Le menthol revigorant, l'eucalyptus et l'hamamélis désodorisant aident à apporter la propreté partout où vous allez. <\/p><p>L'huile de coco, la vitamine E et la vitamine B5 hydratent, apaisent et hydratent. Et comme toujours : sans parabènes, sulfates, phtalates, silicones ou aluminium. <\/p><p>Tous nos produits sont 100 % végétaliens et certifiés Leaping-Bunny sans cruauté envers les animaux. Nos produits sont fabriqués aux États-Unis avec des ingrédients d'origine mondiale. Emballage 100% recyclable.<\/p>",
             "page": ""
           }
         }
@@ -70,7 +79,8 @@
         "buy_buttons",
         "description",
         "collapsible_tab_6YVQwY",
-        "collapsible_tab_BgwqGn"
+        "collapsible_tab_bHQMm4",
+        "collapsible_tab_jWwga9"
       ],
       "settings": {
         "enable_sticky_info": true,
