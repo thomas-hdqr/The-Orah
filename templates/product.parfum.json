@@ -229,6 +229,42 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
+    },
+    "image_banner_9KHLiR": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_cYGzWr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Notre eau de parfum qui sent bon la mer",
+            "heading_size": "h1"
+          }
+        },
+        "text_Yw6Ypb": {
+          "type": "text",
+          "settings": {
+            "text": "Inspiré d'une après-midi de détente sur la côte, le nouveau parfum mélange des minéraux salés, des arômes purs et une chaleur ensoleillée dans un parfum fin, dynamique et masculin.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cYGzWr",
+        "text_Yw6Ypb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/yucar-studios-cfR-V1QuEKw-unsplash.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -236,6 +272,7 @@
     "image_with_text_qGFFL4",
     "rich_text_xkJikH",
     "image_with_text_kFAkqe",
-    "related-products"
+    "related-products",
+    "image_banner_9KHLiR"
   ]
 }
