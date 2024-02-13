@@ -1,0 +1,241 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible_tab_6YVQwY": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>Test<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_BgwqGn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible_tab_6YVQwY",
+        "collapsible_tab_BgwqGn"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-2",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_qGFFL4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_37DttE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Adieu les mauvaises odeurs",
+            "heading_size": "h1"
+          }
+        },
+        "text_QAiQJB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Littéralement. Notre déodorant utilise une technologie déodorante avancée pour éliminer les bactéries responsables des odeurs tout en absorbant l'humidité, vous gardant au frais, au sec et à l'aise. Non irritant. Testé cliniquement et testé contre les allergies.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_8VGwnM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Acheter",
+            "button_link": "shopify:\/\/products\/deodorant",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_37DttE",
+        "text_QAiQJB",
+        "button_8VGwnM"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HURON-DEO-APPLY-FULL-BODY-WHITE-WALL-2-V1-16x9.00_00_05_12.Still001_600x_cdfe2de3-c7c4-4cdf-b31d-fa06448a13e6.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_xkJikH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_JQjYM3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Astuce<\/p>"
+          }
+        },
+        "heading_iYbbWH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les déodorants utilisent des composés d’aluminium pour boucher vos pores. Nous utilisons des ingrédients sûrs et naturels pour absorber l'humidité et éliminer les bactéries responsables des odeurs.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_JQjYM3",
+        "heading_iYbbWH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_kFAkqe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KA8CWT": {
+          "type": "heading",
+          "settings": {
+            "heading": "On vous aide",
+            "heading_size": "h1"
+          }
+        },
+        "text_djn7j9": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Technologie déodorante avancée pour cibler et neutraliser les odeurs à leur source<\/li><li>La poudre d'arrow-root du Brésil et le bicarbonate de sodium absorbent l'humidité, vous gardant au frais, au sec et à l'aise toute la journée.<\/li><li>Le beurre de karité, le jojoba, l'huile de tournesol et l'huile de noix de coco laissent les aisselles lisses et sans irritation. Testé cliniquement, testé contre les allergies et non irritant<\/li><\/ul><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_WDhB7L": {
+          "type": "button",
+          "settings": {
+            "button_label": "Acheter",
+            "button_link": "shopify:\/\/products\/deodorant",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KA8CWT",
+        "text_djn7j9",
+        "button_WDhB7L"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HURON-TEAM-PRODUCT-12-07-2021_00015_600x_66bd9ba9-0868-43cf-a544-aadbc48ada83.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Vous pourriez aimer",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_qGFFL4",
+    "rich_text_xkJikH",
+    "image_with_text_kFAkqe",
+    "related-products"
+  ]
+}
