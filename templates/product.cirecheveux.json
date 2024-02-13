@@ -50,6 +50,33 @@
             "content": "<ul><li>S'applique en douceur tout en améliorant la texture des cheveux.<\/li><li>Ajoute du volume<\/li><li>Finition mate naturelle avec contrôle longue durée.<\/li><li>Finition mate naturelle avec contrôle longue durée.<\/li><\/ul>",
             "page": ""
           }
+        },
+        "collapsible_tab_rXyjRt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Odeur",
+            "icon": "none",
+            "content": "<p>Un parfum frais, propre et revigorant d'agrumes énergiques, de genièvre frais et de légumes verts aromatiques.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_GzpPN8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>Notre cire coiffante douce est facile à appliquer et améliore la texture et la sensation globales des cheveux. Le beurre de karité et l'huile de noix de coco conditionnent car les acides aminés ajoutent du volume tout en réduisant l'électricité statique et les frisottis (résistants à l'humidité). Fini naturel et mat avec un contrôle longue durée. Et comme toujours : sans parabènes, sulfates, phtalates, silicones ou aluminium. Tous nos produits sont 100 % végétaliens et certifiés Leaping-Bunny sans cruauté envers les animaux. Nos produits sont fabriqués en France avec des ingrédients d'origine mondiale. Emballage 100% recyclable.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_neMgUQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients",
+            "icon": "none",
+            "content": "<p>Eau (Aqua), huile de graines de Ricinus Communis (ricin), alcool cétéarylique, copolymère VP\/VA, glycérine, benzoate d'alkyle C12-15, huile de cocos nucifera (noix de coco), distéarate de glycol, polysorbate 60, ozokérite, acide polyhydroxystéarique, glycérine de capryloyl\/ Copolymère d'acide sébacique, 1,2-hexanediol, aminométhylpropanol, arginine HCl, beurre de Butyrospermum Parkii (karité), carbomère, cire de Copernicia Cerifera (Carnauba), succinate de diheptyle, éthylhexylglycérine, hydroxyacétophénone, acide lactique, PEG-45M, pentylène glycol, phénoxyéthanol. , PVP, sérine, acides aminés de soja, EDTA tétrasodique, thréonine, tocophérol, extrait de son de Triticum Vulgare (blé), acides aminés de blé, caprylyl glycol, parfum (parfum)<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -60,7 +87,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY"
+        "collapsible_tab_6YVQwY",
+        "collapsible_tab_rXyjRt",
+        "collapsible_tab_GzpPN8",
+        "collapsible_tab_neMgUQ"
       ],
       "settings": {
         "enable_sticky_info": true,
