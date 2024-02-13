@@ -186,7 +186,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/deodorant",
+            "button_link": "shopify:\/\/products\/hydratant-visage",
             "button_style_secondary": false
           }
         }
