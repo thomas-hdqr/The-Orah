@@ -94,14 +94,14 @@
         "heading_37DttE": {
           "type": "heading",
           "settings": {
-            "heading": "Une hydratation sans brillance qui dure(et dure)",
+            "heading": "Frais et si propre",
             "heading_size": "h1"
           }
         },
         "text_QAiQJB": {
           "type": "text",
           "settings": {
-            "text": "<p>Donnez à votre peau une pause avec cet hydratant quotidien léger et rafraîchissant qui soulage la sécheresse, lisse, protège et ravive votre apparence.<\/p>",
+            "text": "<p>Ce n’est pas un nettoyant pour le corps ordinaire. La formule super rafraîchissante et revitalisante pour la peau revigore, désodorise et nourrit pour vous aider à rester en pleine forme.<\/p>",
             "text_style": "body"
           }
         },
@@ -109,7 +109,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/hydratant-visage",
+            "button_link": "shopify:\/\/products\/nettoyant-corps",
             "button_style_secondary": false
           }
         }
@@ -120,7 +120,7 @@
         "button_8VGwnM"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/huron-pdp-face-lotion-3.4_value_prop_600x_dbe35f37-076c-4dc5-98e1-1d4de0c22fb1.webp",
+        "image": "shopify:\/\/shop_images\/20_600x_e715fbdf-004b-4870-9589-6235d124986c.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
