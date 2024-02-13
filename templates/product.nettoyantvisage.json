@@ -94,14 +94,14 @@
         "heading_37DttE": {
           "type": "heading",
           "settings": {
-            "heading": "Frais et si propre",
+            "heading": "Nettoyez vos pores",
             "heading_size": "h1"
           }
         },
         "text_QAiQJB": {
           "type": "text",
           "settings": {
-            "text": "<p>Ce n’est pas un nettoyant pour le corps ordinaire. La formule super rafraîchissante et revitalisante pour la peau revigore, désodorise et nourrit pour vous aider à rester en pleine forme.<\/p>",
+            "text": "<p>La peau de votre visage est différente de celle de votre corps. Notre formule multi-actions est conçue pour nettoyer et éliminer la saleté, la sueur et l'huile qui s'accumulent sur votre visage sans le dessécher.<\/p>",
             "text_style": "body"
           }
         },
@@ -109,7 +109,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/nettoyant-corps",
+            "button_link": "shopify:\/\/products\/nettoyant-visage",
             "button_style_secondary": false
           }
         }
@@ -120,7 +120,7 @@
         "button_8VGwnM"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/20_600x_e715fbdf-004b-4870-9589-6235d124986c.webp",
+        "image": "shopify:\/\/shop_images\/facewash_02_600x_8e55a807-0fd2-4136-93b2-4047091df0fa.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -147,7 +147,7 @@
         "heading_iYbbWH": {
           "type": "heading",
           "settings": {
-            "heading": "Très peu de marques (voire aucune ?) utilisent l'hamamélis dans leur nettoyant pour le corps. C'est une plante bien connue utilisée pour soulager l'inflammation et réduire les irritations cutanées.",
+            "heading": "La plupart des exfoliants ont une mauvaise réputation car ils ressemblent à du papier de verre. Le nôtre est suffisamment doux pour être utilisé (deux fois) par jour tout en offrant des bienfaits nettoyants en profondeur.",
             "heading_size": "h1"
           }
         }
@@ -171,14 +171,14 @@
         "heading_KA8CWT": {
           "type": "heading",
           "settings": {
-            "heading": "Faites mousser comme un adulte",
+            "heading": "Nettoyage en profondeur + finition douce = combo gagnant",
             "heading_size": "h1"
           }
         },
         "text_djn7j9": {
           "type": "text",
           "settings": {
-            "text": "<p>Le nettoyant corporel nourrissant fournit une mousse revitalisante qui élimine la saleté, l'huile et la sueur. Le menthol et l'eucalyptus revigorants, le ginseng énergisant et l'hamamélis désodorisant aident à apporter la propreté partout où vous allez. L'huile de coco, la vitamine E et la vitamine B5 hydratent, apaisent et hydratent.<\/p>",
+            "text": "<p>La formule crémeuse mousse pour donner un nettoyage rafraîchissant tandis que la poudre de bambou et les enzymes de fruits éliminent les impuretés et les débris. L'aloès et la glycérine apaisent, calment et hydratent pour une peau plus fraîche, plus lisse et plus douce.<\/p>",
             "text_style": "body"
           }
         },
@@ -186,7 +186,7 @@
           "type": "button",
           "settings": {
             "button_label": "Acheter",
-            "button_link": "shopify:\/\/products\/nettoyant-corps",
+            "button_link": "shopify:\/\/products\/nettoyant-visage",
             "button_style_secondary": false
           }
         }
@@ -197,7 +197,7 @@
         "button_WDhB7L"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/body-wash-4_600x_e78a180f-a0e3-4a42-ad7c-eb0f757f2b33.webp",
+        "image": "shopify:\/\/shop_images\/facewash_03_600x_647f08d7-ee87-4d12-8f67-84636697cb30.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
