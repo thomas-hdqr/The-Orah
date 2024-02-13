@@ -50,6 +50,15 @@
             "content": "<ul><li>La texture gel-crème est fraîche et fraîche car elle apaise et hydrate instantanément.<\/li><li>Les super hydratants lissent les ridules et maintiennent la peau douce.<\/li><li>Protège contre la pollution environnementale en laissant la peau sans brillance.<\/li><li>Sans parabènes, sulfates, phtalates, silicones ou aluminium. <\/li><li>Végétalien, sans cruauté. <\/li><li>Fabriqué France. Emballage 100% recyclable.<\/li><\/ul>",
             "page": ""
           }
+        },
+        "collapsible_tab_C4tQRW": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Odeur",
+            "icon": "none",
+            "content": "<p>Une touche nette et subtile de menthe poivrée rafraîchissante, d'agrumes énergisants et de genévrier revigorant.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -60,7 +69,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible_tab_6YVQwY"
+        "collapsible_tab_6YVQwY",
+        "collapsible_tab_C4tQRW"
       ],
       "settings": {
         "enable_sticky_info": true,
