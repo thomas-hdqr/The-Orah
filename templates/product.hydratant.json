@@ -59,6 +59,15 @@
             "content": "<p>Une touche nette et subtile de menthe poivrée rafraîchissante, d'agrumes énergisants et de genévrier revigorant.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_ceNYPK": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Détails",
+            "icon": "none",
+            "content": "<p>Le gel-lotion frais apaise instantanément tandis que les super-hydratants tels que l'hyaluronate de sodium et la pentavitine procurent un soulagement à long terme de la sécheresse. <\/p><p>La formule lisse l'apparence des ridules tout en protégeant des polluants environnementaux. La peau est saine et sans brillance. Et comme toujours : sans parabènes, sulfates, phtalates, silicones ou aluminium. Tous nos produits sont 100 % végétaliens et certifiés Leaping-Bunny sans cruauté envers les animaux. <\/p><p>Nos produits sont fabriqués en France avec des ingrédients d'origine mondiale. Emballage 100% recyclable.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -70,7 +79,8 @@
         "buy_buttons",
         "description",
         "collapsible_tab_6YVQwY",
-        "collapsible_tab_C4tQRW"
+        "collapsible_tab_C4tQRW",
+        "collapsible_tab_ceNYPK"
       ],
       "settings": {
         "enable_sticky_info": true,
